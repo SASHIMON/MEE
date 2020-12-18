@@ -8,17 +8,17 @@
                 {
                   "name" : "รายการสด",
                   "image": "https://1.bp.blogspot.com/-8NbNg2O20Tk/X9yzLIGPCFI/AAAAAAAAAWY/SDl74JuawPAwun9-6oDJPSqXK26dba7tQCNcBGAsYHQ/s320/iptvsmart.jpg",              
-                  "url": "",
+                  "url": "https://github.com/SASHIMON/MEE/raw/main/live",
                 },
                 {
                   "name" : "ฟังวิทยุ",
                   "image": "https://1.bp.blogspot.com/-tY6ymvvy410/X9y0IaOXnCI/AAAAAAAAAWg/FtWxQLqZW0AC2upwNwmZSeQZFdStOodnwCNcBGAsYHQ/s320/JOOX-Radio-Stations.jpg",              
-                  "url": "",
+                  "url": "https://github.com/SASHIMON/MEE/raw/main/radio",
                 },
                 {
                   "name" : "หนัง&ซีรีย์",
                   "image": "https://1.bp.blogspot.com/-wa7s-DbHyps/X9y2loBKvjI/AAAAAAAAAW0/isvWrzNinzAEOf4SRUKj_F4lTTkAd0g-wCNcBGAsYHQ/s320/movietime.jpg",              
-                  "url": "",
+                  "url": "https://github.com/SASHIMON/MEE/raw/main/rest",
                 }
                ]
 }
