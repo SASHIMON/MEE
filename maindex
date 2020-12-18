@@ -1,69 +1,24 @@
 {
-  "name"  : "📺Beta",
+  "name"  : "📺 Beta 2.0",
   "author"  : "🐻enG",
   "url"  : "https://raw.githubusercontent.com/SASHIMON/MEE/main", 
   "image"  : "https://1.bp.blogspot.com/-3k-uZDnHBbw/X3tfFHHm-eI/AAAAAAAAAQs/jwkpe0Mp6BAo9hcSJHfyaYOA7mCS44JXwCNcBGAsYHQ/s1516/brown0001.jpg", 
   "info"  : "Last Update 18 Dec 2020",
   "groups"  : [
-       {
-          "name" : "รายการสด",
-          "image": "",              
-          "stations": [
-              {
-                  "name" : "",
-                  "image": "",              
+                {
+                  "name" : "รายการสด",
+                  "image": "https://1.bp.blogspot.com/-8NbNg2O20Tk/X9yzLIGPCFI/AAAAAAAAAWY/SDl74JuawPAwun9-6oDJPSqXK26dba7tQCNcBGAsYHQ/s320/iptvsmart.jpg",              
                   "url": "",
-                  "referer": "",
-                  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
-              },
-              {
-                  "name" : "",
-                  "image": "",              
+                },
+                {
+                  "name" : "ฟังวิทยุ",
+                  "image": "https://1.bp.blogspot.com/-tY6ymvvy410/X9y0IaOXnCI/AAAAAAAAAWg/FtWxQLqZW0AC2upwNwmZSeQZFdStOodnwCNcBGAsYHQ/s320/JOOX-Radio-Stations.jpg",              
                   "url": "",
-                  "referer": "",
-                  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
-              },
-           ]
-        },
-        {
-          "name" : "ฟังวิทยุ",
-          "image": "",              
-          "stations": [
-              {
-                  "name" : "",
-                  "image": "",              
+                },
+                {
+                  "name" : "หนัง&ซีรีย์",
+                  "image": "https://1.bp.blogspot.com/-wa7s-DbHyps/X9y2loBKvjI/AAAAAAAAAW0/isvWrzNinzAEOf4SRUKj_F4lTTkAd0g-wCNcBGAsYHQ/s320/movietime.jpg",              
                   "url": "",
-                  "referer": "",
-                  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
-              },
-              {
-                  "name" : "",
-                  "image": "",              
-                  "url": "",
-                  "referer": "",
-                  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
-              },
-           ]
-        },
-        {
-          "name" : "หนัง&ซีรีย์",
-          "image": "",              
-          "stations": [
-              {
-                  "name" : "",
-                  "image": "",              
-                  "url": "",
-                  "referer": "",
-                  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
-              },
-              {
-                  "name" : "",
-                  "image": "",              
-                  "url": "",
-                  "referer": "",
-                  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
-              },
-           ]
-        }
-]
+                }
+               ]
 }
