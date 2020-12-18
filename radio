@@ -125,6 +125,8 @@
                "name": "OLD SONGS",
                "image": "https://uppic.cc/d/yx1P",              
                "url": "https://www.ondio.in/old/",
+               "referer": "https://www.ondio.in/",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
                "playInNatPlayer": "true"
               },
             ]
