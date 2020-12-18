@@ -23,6 +23,8 @@
                "name": "Cool 93FM",
                "image": "https://www.adintrend.tv/images/radio/93x.jpg",              
                "url": "http://111.223.51.7:8100/;stream/1",
+               "referer": "http://111.223.51.7:8100",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
                "playInNatPlayer": "true"
               },
               {
@@ -107,18 +109,24 @@
                "name": "เพื่อชีวิต",
                "image": "https://il.mahidol.ac.th/upload/img/2020-10-28-123219.jpg",              
                "url": "http://27.254.142.208:8300/stream/1/",
+               "referer": "http://27.254.142.208:8300",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
                "playInNatPlayer": "true"
               },
               {
                "name": "NEW SONGS",
                "image": "https://uppic.cc/d/yx1r",              
                "url": "http://112.121.150.133:8020/stream",
+               "referer": "http://112.121.150.133:8020",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
                "playInNatPlayer": "true"
               },
               {
                "name": "OLD SONGS",
                "image": "https://uppic.cc/d/yx1P",              
                "url": "http://112.121.150.133:8022/stream",
+               "referer": "http://112.121.150.133:8022",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
                "playInNatPlayer": "true"
               },
             ]
