@@ -17,6 +17,105 @@
 				"referer": "http://ultratv.one:2095/",
 				"info": "AXN TH (2)",
 				"playInNatPlayer": "true"},
+				{
+				"name":"AXN (3)",
+              			 "image": "https://cdn.tvpassport.com/image/station/240x135/axn.png", 
+				"url": "https://mediasv.online/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgNjowMzo1NSBBTSZoYXNoX3ZhbHVlPXFLT2RzVmFON0cwYkxXeUlhY3B4a1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNDQ0MjM=",
+				"referer": "https://mediasv.online/",
+				"info": "AXN TH (3)",
+				"playInNatPlayer": "true"},	
+	{
+		"name":"FW Movie",
+              	"image": "https://sv1.picz.in.th/images/2020/06/18/qyuaZW.png", 
+		"url": "https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8",
+		"referer": "https://freelive.inwstream.com:1936/",
+		"info": "ช่องหนัง",
+		"playInNatPlayer": "true"
+	},
+	{
+		"name":"FW Series",
+              	"image": "https://sv1.picz.in.th/images/2020/06/18/qyuvm1.png", 
+		"url": "https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8",
+		"referer": "https://freelive.inwstream.com:1936/",
+		"info": "ช่องซีรีย์",
+		"playInNatPlayer": "true"
+	},
+	{
+		"name":"Warner TV",
+              	"image": "https://sv1.picz.in.th/images/2022/02/20/rKieYy.jpg", 
+		"url": "http://61.19.242.134/feed/202105171329/LC28/index.m3u8",
+		"referer": "http://61.19.242.134/",
+		"info": "Warner TV TH",
+		"playInNatPlayer": "true"
+	},	
+				{
+				"name":"KBS World",
+               			"image": "https://wacth.officebk.co/uploads/tv_image/20220113151022koreanmore.png", 
+				"url": "https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgOToxNDo1NSBBTSZoYXNoX3ZhbHVlPS9iSjdaOG9NTVpxbEFnUEl4OTRxL2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTk3MzI=",
+				"referer": "https://mediasv.online/",   
+        			"info": "Eng Subtitle",
+				"playInNatPlayer": "true"},
+				{
+				"name":"Paramount",
+              			 "image": "https://wacth.officebk.co/uploads/tv_image/20220301173826paramount.jpg", 
+				"url": "https://mediasv.online/stream_live/232_Paramount/playlist.m3u8",
+				"referer": "https://mediasv.online/",
+				"info": "TH Subtitle",
+				"playInNatPlayer": "true"},
+				{
+				"name":"FSTVMOV HD1",
+              			 "image": "https://sv1.picz.in.th/images/2022/04/01/8KZv8n.png", 
+				"url": "http://203.154.243.89:28010/pa/hchannel.ts",
+				"referer": "http://203.154.243.89:28010/",
+				"info": "หนัง พากษ์ไทย/Sub (1)",
+				"playInNatPlayer": "true"},		
+	{
+		"name":"FSTVMOV HD4",
+              	"image": "https://sv1.picz.in.th/images/2022/04/01/8KZv8n.png", 
+		"url": "http://203.154.243.89:28007/mss/izaa",
+		"referer": "http://203.154.243.89:28007/",
+		"info": "หนัง พากษ์ไทย/Sub (2)",
+		"playInNatPlayer": "true"
+	},
+	{
+		"name":"FSTVMOV HD3",
+              	"image": "https://sv1.picz.in.th/images/2022/04/09/8jiGYJ.png", 
+		"url": "http://203.154.243.89:28010/pa/universal.ts",
+		"referer": "http://203.154.243.89:28010/",
+		"info": "Universal Sub",
+		"playInNatPlayer": "true"
+	},
+	{
+		"name":"FSTVMOV HD5",
+              	"image": "https://sv1.picz.in.th/images/2022/02/20/rKieYy.jpg", 
+		"url": "http://203.154.243.89:28010/pa/ping.ts",
+		"referer": "http://203.154.243.89:28010/",
+		"info": "Series Sub (1)",
+		"playInNatPlayer": "true"
+	},	
+	
+				{
+				"name":"FSTVSerie 1",
+              			 "image": "https://sv1.picz.in.th/images/2021/12/13/6CQcK1.png", 
+				"url": "http://203.154.243.89:28007/mss/series",
+				"referer": "http://203.154.243.89:28007/",
+				"info": "Series พากษ์ไทย/Sub",
+				"playInNatPlayer": "true"},
+				{
+				"name":"FSTVSerie 2",
+              			 "image": "https://sv1.picz.in.th/images/2021/12/13/6CQcK1.png", 
+				"url": "http://203.154.243.89:28008/nakhon/series",
+				"referer": "http://203.154.243.89:28008/",
+				"info": "(สำรอง) Series พากษ์ไทย/Sub",
+				"playInNatPlayer": "true"},
+				{
+				"name":"Mono 29",
+              			 "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", 
+				"url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8",
+				"referer": "https://edge2-bkk.3bb.co.th:9443/",
+				"info": "Mono 29 (HD 1080p)",
+				"playInNatPlayer": "true"},
+	
             ]
 }
                
