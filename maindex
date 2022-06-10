@@ -6,9 +6,15 @@
   "info" : "Last Update 10 June 2022",
   "groups"  : [
                 {
-                  "name" : "รายการสด",
+                  "name" : "ดูหนัง",
                   "image": "https://1.bp.blogspot.com/-8NbNg2O20Tk/X9yzLIGPCFI/AAAAAAAAAWY/SDl74JuawPAwun9-6oDJPSqXK26dba7tQCNcBGAsYHQ/s320/iptvsmart.jpg",              
-                  "url": "https://bit.ly/ESC2022MeLiveCH",
+                  "url": "https://bit.ly/ESC2022MEMovie2CH",
+                  "import": false
+                },
+                  {
+                  "name" : "ดูบอล",
+                  "image": "https://1.bp.blogspot.com/-8NbNg2O20Tk/X9yzLIGPCFI/AAAAAAAAAWY/SDl74JuawPAwun9-6oDJPSqXK26dba7tQCNcBGAsYHQ/s320/iptvsmart.jpg",              
+                  "url": "https://bit.ly/ESC2022MEmySportCH",
                   "import": false
                 },
                 {
