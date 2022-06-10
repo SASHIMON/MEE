@@ -6,25 +6,25 @@
   "info" : "Last Update 10 June 2022",
   "groups"  : [
                 {
-                  "name" : "ดูหนัง",
+                  "name" : "บันเทิง",
                   "image": "https://www.kindpng.com/picc/m/223-2231002_entertainment-png-v-music-entertainment-logo-png-transparent.png",              
                   "url": "https://bit.ly/ESC2022MEMovie2CH",
                   "import": false
                 },
                   {
-                  "name" : "ดูบอล",
+                  "name" : "กีฬา",
                   "image": "https://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo.jpg",              
-                  "url": "https://bit.ly/ESC2022MeLiveCH",
+                  "url": "https://www.dropbox.com/s/xhj2quhkm35r795/sport-test.m3u?dl=1",
                   "import": false
                 },
                 {
-                  "name" : "ฟังวิทยุ",
+                  "name" : "วิทยุ",
                   "image": "https://thumbs.dreamstime.com/b/radio-logo-radio-icon-simple-vector-radio-logo-radio-icon-simple-vector-white-background-124841155.jpg",              
                   "url": "http://tiny.cc/meeRADIO",
                   "import": false
                 },
                 {
-                  "name" : "ของสะสม",
+                  "name" : "สะสม",
                   "image": "http://images.squarespace-cdn.com/content/v1/5336f9ebe4b00209e20806c1/1604069548152-VXQI49220L29NBADWQGM/logo.jpg",              
                   "url": "https://bit.ly/ESC2022MeCollectionsCH",
                   "import": false
