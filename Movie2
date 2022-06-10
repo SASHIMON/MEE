@@ -1,0 +1,21 @@
+{
+"name": "ดูหนัง",
+"stations":	
+			[ 
+				{
+				"name":"AXN HD",
+               			"image": "https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png", 
+				"url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115619",
+				"referer": "http://ultratv.one:2095/",   
+        			"info": "AXN HD TH (1)",
+				"playInNatPlayer: "true"},
+				{
+				"name":"AXN (2)",
+              			 "image": "https://cdn.tvpassport.com/image/station/240x135/axn.png", 
+				"url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115620",
+				"referer": "http://ultratv.one:2095/",
+				"info": "AXN TH (2)",
+				"playInNatPlayer: "true"},
+            ]
+}
+               
