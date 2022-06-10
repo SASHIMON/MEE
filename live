@@ -2,63 +2,114 @@
 "name": "ดูรายการสด",
 "author" : "DOO 📺 By ESC|🐻enG",
 "url" : "https://bit.ly/ESC2022MeLiveCH", 
-"groups": [
-		{
-             	"name": "ดูหนัง",
-		"stations":	
-			[ 
+"stations":	
+	[ 
 				{
-				"name":"AXN HD",
-               			"image": "https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png", 
-				"url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115619",
-				"referer": "http://ultratv.one:2095/",   
-        			"info": "AXN HD TH (1)",
-				"playInNatPlayer: "true"},
-				{
-				"name":"AXN (2)",
-              			 "image": "https://cdn.tvpassport.com/image/station/240x135/axn.png", 
-				"url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115620",
-				"referer": "http://ultratv.one:2095/",
-				"info": "AXN TH (2)",
-				"playInNatPlayer: "true"},
-			]},
+				"name":"Highlight Footall",
+				"image":"https://www.img.in.th/images/4b12bc60a5d75e496270e83903866a24.jpg",
+				"url":"https://livescorethai.football/",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"embed": "true",playInNatPlayer: "true"},
+
+				{"name": "          us ",
+				"image": "https://www.dropbox.com/s/prn3blp3jirzurm/IMG_20211201_213311.png?dl=1",
+				"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=us-nbcgolf&api_key=hmcb4rf66f",
+				"referer": "https://dooball66.com",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
+
+				{"name": "    Malaysia",
+				"image": "https://www.dropbox.com/s/prn3blp3jirzurm/IMG_20211201_213311.png?dl=1",
+				"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-golfeng&api_key=hmcb4rf66f",
+				"referer": "https://dooball66.com",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
+ 
+				{name: "GOLF NBC",
+				"image": "https://www.dropbox.com/s/prn3blp3jirzurm/IMG_20211201_213311.png?dl=1",
+				url: "https://embed-dev.blackboxsys.net/player.php?channel=us-nbcgolf&api_key=hmcb4rf66f",
+				referer: "https://dooball66.com/", 
+				"embed": "true",playInNatPlayer: "true"},	
+
+				{"name": "PGA TOUR",
+				"image": "https://sv1.picz.in.th/images/2021/04/05/DMu77y.png",
+				"url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false","referer": ""},
+
+				{"name": "Sky Sport Golf",  
+				"image": "https://sv1.picz.in.th/images/2021/01/11/lKvtIV.png", 
+				"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f ",
+				"referer": "https://dooball66.com",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
+ 
+				{name: "SKYSPORTS GOLF",
+				"image": "https://sv1.picz.in.th/images/2021/01/11/lKvtIV.png", 
+				url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f",
+				referer: "https://dooball66.com/", 
+				"embed": "true",playInNatPlayer: "true"}, 
+	
+				{"name": "Golf Channel Thailand",
+				"image": "https://www.dropbox.com/s/k62c8mfx2pb5gnd/resize.png?dl=1",
+				"url":"https://we-play.live/watching/tv/golf-channel",
+				"referer": "https://we-play.live/",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+				{"name": "Golf Channel Thailand",
+				"image":"https://www.dropbox.com/s/k62c8mfx2pb5gnd/resize.png?dl=1",
+				"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-golf&api_key=hmcb4rf66f",
+				"referer": "https://dooball66.com",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
 		
-{
-             	"name": "ดูบอล",
-		"stations":	
-			[ 		
+				{"name": "Golf Channel Thailand",
+				"image":"https://www.dropbox.com/s/k62c8mfx2pb5gnd/resize.png?dl=1",
+				url:"https://www.doofootball.com/dootv/live/golfchannel#main_dootv",
+				referer:"https://www.doofootball.com/"},	
+				{"name":"Golf Plus",
+				"image":"https://www.dropbox.com/s/0pnj1rqx2t5gh2r/IMG_20220110_221518.png?dl=1",
+				"url":"https://we-play.live/watching/tv/golf-channel-thailand-hd2",
+				"referer": "https://dooball66.com",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
+
+				{"name":"Golf Plus",
+				"image":"https://www.dropbox.com/s/0pnj1rqx2t5gh2r/IMG_20220110_221518.png?dl=1",
+				"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-golf2&api_key=hmcb4rf66f&ref=none",
+				"referer": "https://dooball66.com",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
+	
+				{"name": "    ONEgolf ",
+				"image": "https://sv1.picz.in.th/images/2021/02/24/oueCkv.png",
+				"url": "http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8","referer": "",
+ 				"playInNatPlayer": "true"},
+						
 		{
-				"name":"True Premier1",
+				"name":"True Premier1-1",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png", 
 				"url": "https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8",
-				"referer": "https://streaming.livescorethai.net/",   
-        "info": "True Premier1 (1)",
-				"playInNatPlayer: "true"},
+				"referer": "https://streaming.livescorethai.net/",   "info": "For ฟรี อย่านำไปจำหน่ายนะจ๊ะ นะจ๊ะ",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				playInNatPlayer: "true"},
 
 		{
-				"name":"True Premier1",
+				"name":"True Premier1-3",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",     
 				"url": "https://embed.dooball66.com/player.php?channel=epl-1&api_key=hmcb4rf66f&ref=https://dooball66.com&ref=https://dooball66.com",
 				"referer": "https://dooball66.com/",
-				"info": "True Premier1 (3)",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
 				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 				"playInNatPlayer": "true"},
  
 		{
-				"name":"True Premier1",
+				"name":"True Premier1-4",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",     
 				"url":"https://we-play.live/watching/tv/true-premier-football-hd-1",
  				"referer": "https://we-play.live/",
-				"info": "True Premier1 (4)",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
 				"playInNatPlayer": "true"}, 
  
 		{
-				"name":"True Premier1",
+				"name":"True Premier1-5",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
 				"url": "https://www.livestream88.com/sport/true-premier-football-hd-1/",
 				"referer": "https://www.livestream88.com/",
-				"info": "True Premier1 (5)",
-				"playInNatPlayer: "true"},
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				playInNatPlayer: "true"},
 
 		{
 				"name":"True Premier2",
@@ -246,62 +297,509 @@
 				"referer": "https://freetvdd.com/",
 				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
 				playInNatPlayer: "true"},
-        
-    {name: "GOLF NBC",
-				"image": "https://www.dropbox.com/s/prn3blp3jirzurm/IMG_20211201_213311.png?dl=1",
-				url: "https://embed-dev.blackboxsys.net/player.php?channel=us-nbcgolf&api_key=hmcb4rf66f",
-				referer: "https://dooball66.com/", 
-				"embed": "true",playInNatPlayer: "true"},	
-
-				{"name": "PGA TOUR",
-				"image": "https://sv1.picz.in.th/images/2021/04/05/DMu77y.png",
-				"url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false","referer": ""},
-
-				{"name": "Sky Sport Golf",  
-				"image": "https://sv1.picz.in.th/images/2021/01/11/lKvtIV.png", 
-				"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f ",
-				"referer": "https://dooball66.com",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
+   
+        {
+               "name": "T Sport",
+               "image": "https://www.img.in.th/images/844a0eb5599a07a05577456f482cb6dc.jpg",              
+               "url": "https://ufa77.tv/channel?ch=astrosupersport","referer": "https://ufa77.tv/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+     "playInNatPlayer": "true"}, 
+  
+		{
+			"name": "Fight Sport",
+			"image": "https://we-play.live/uploads/posters/fight-sports-poster.jpg",
+             "url": "http://61.19.242.134/feed/202105171329/LC36/index.m3u8","referer": "",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+			"playInNatPlayer": "true"},
+  
+			{
+               "name": "Fight Sport 2",
+			"image": "https://we-play.live/uploads/posters/fight-sports-poster.jpg",         
+               "url": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8","referer": "",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+     "playInNatPlayer": "true"}, 
  
-				{name: "SKYSPORTS GOLF",
-				"image": "https://sv1.picz.in.th/images/2021/01/11/lKvtIV.png", 
-				url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f",
-				referer: "https://dooball66.com/", 
-				"embed": "true",playInNatPlayer: "true"}, 
-	
-				{"name": "Golf Channel Thailand",
-				"image": "https://www.dropbox.com/s/k62c8mfx2pb5gnd/resize.png?dl=1",
-				"url":"https://we-play.live/watching/tv/golf-channel",
-				"referer": "https://we-play.live/",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+			{
+               "name": "KOK",
+			"image": "https://we-play.live/uploads/posters/fight-sports-poster.jpg",         
+               "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?fbclid=IwAR3VqOHOoEbfYm9svv70FMhutc5REuhw0HfwtAaZSwTCYIEuJtGUXUOrN1Y","referer": "",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+     "playInNatPlayer": "true"}, 
+  
+			{
+               "name": "Fit",
+			"image": "https://we-play.live/uploads/posters/fight-sports-poster.jpg",         
+               "url": "https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/playlist.m3u8","referer": "",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+     "playInNatPlayer": "true"}, 
+ 	 
+			{
+               "name": "AXSTYV FIGHTS",
+			"image": "https://we-play.live/uploads/posters/fight-sports-poster.jpg",         
+               "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8","referer": "",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+     "playInNatPlayer": "true"},  	
 
-				{"name": "Golf Channel Thailand",
-				"image":"https://www.dropbox.com/s/k62c8mfx2pb5gnd/resize.png?dl=1",
-				"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-golf&api_key=hmcb4rf66f",
-				"referer": "https://dooball66.com",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
-		
-				{"name": "Golf Channel Thailand",
-				"image":"https://www.dropbox.com/s/k62c8mfx2pb5gnd/resize.png?dl=1",
-				url:"https://www.doofootball.com/dootv/live/golfchannel#main_dootv",
-				referer:"https://www.doofootball.com/"},	
-				{"name":"Golf Plus",
-				"image":"https://www.dropbox.com/s/0pnj1rqx2t5gh2r/IMG_20220110_221518.png?dl=1",
-				"url":"https://we-play.live/watching/tv/golf-channel-thailand-hd2",
-				"referer": "https://dooball66.com",
+		{
+				name:"Astro Super Sport",
+				image:"http://udoofree.com/images/channels/astro_supersport1-.jpg",
+				url:"https://ufa77.tv/channel?ch=astrosupersport",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
 				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
 
-				{"name":"Golf Plus",
-				"image":"https://www.dropbox.com/s/0pnj1rqx2t5gh2r/IMG_20220110_221518.png?dl=1",
-				"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-golf2&api_key=hmcb4rf66f&ref=none",
-				"referer": "https://dooball66.com",
+		{
+				name:"Astro Super Sport 3",
+				image:"http://udoofree.com/images/channels/astro_supersport-3.jpg",
+				url:"https://ufa77.tv/channel?ch=astrosupersport3",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
 				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
+				
+		{
+               "name": "Sky Bundesliga (UK)",
+               "image": "https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png",      
+				"url": "https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8",
+				"referer": "https://freetvdd.com/",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				playInNatPlayer: "true"},
+  	
+		{
+               "name": "Sky Sport Premier (UK)",
+               "image": "https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png",      
+				"url": "https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8",
+				"referer": "https://freetvdd.com/",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				playInNatPlayer: "true"},
+  	
+		{
+               "name": "Sky Sport Football (UK)",
+               "image": "https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football.png",      
+				"url": "https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8",
+				"referer": "https://freetvdd.com/",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				playInNatPlayer: "true"},
+  	  	
+		{
+               "name": "True Tennis",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/hd-tennis.png",     
+				"url": "https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8",
+				"referer": "https://freetvdd.com/",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				playInNatPlayer: "true"},
+
+             {
+               "name": "True Tennis",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/hd-tennis.png",              
+               "url": "https://www.doomovie-hd.com/?r=tv_view&id=26","referer": "https://www.doomovie-hd.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+     "playInNatPlayer": "true"}, 
+
+             {
+               "name": "True Tennis",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/hd-tennis.png",              
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tennis&api_key=hmcb4rf66f&ref=https://dooball66.com","referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 	
-				{"name": "    ONEgolf ",
-				"image": "https://sv1.picz.in.th/images/2021/02/24/oueCkv.png",
-				"url": "http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8","referer": "",
- 				"playInNatPlayer": "true"}
-				]}
+		{
+               "name": "True Sport5",
+               "image": "https://overseer.blackboxsys.net/images/png/sd-tsport5.png",      
+				"url": "https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8",
+				"referer": "https://freetvdd.com/",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				playInNatPlayer: "true"},
+	        
+			{
+               "name": "True Sport5",
+               "image": "https://overseer.blackboxsys.net/images/png/sd-tsport5.png",             
+               "url": "https://embed.dooball66.com/player.php?channel=sd-tsport5&api_key=hmcb4rf66f&ref=https://dooball66.com","referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
+     
+             {
+               "name": "True Sport5",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/sd-tsport5.png",              
+               "url": "https://www.we-play.tv/watching/tv/true-sports-5","referer": "https://we-play.live/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"playInNatPlayer": "true"}, 
+ 
+			{
+               "name": "True Sport7",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/sd-tsport7.png",      
+				"url": "https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8",
+				"referer": "https://freetvdd.com/",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
+
+ 
+			{
+               "name": "True Sport7",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/sd-tsport7.png",      
+				"url": "https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8",
+				"referer": "https://freetvdd.com/",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
+
+
+
+
+             {
+               "name": "True Sport7",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/sd-tsport7.png",              
+               "url": "https://www.we-play.tv/watching/tv/true-sports-7","referer": "https://www.we-play.tv/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"playInNatPlayer": "true"}, 
+	      
+			{
+               "name": "True Sport7",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/sd-tsport7.png",              
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport7&api_key=hmcb4rf66f&ref=https://dooball66.com","referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"embed": "true",playInNatPlayer: "true"},
+
+			{
+               "name": "SPOTV1",
+               "image": "https://www.img.in.th/images/2d51b06fa02dc2ab07df62f5545badf8.png",              
+               "url":   "https://www.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8","referer": "https://www.livedoomovie.com",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+     "playInNatPlayer": "true"}, 
+  
+             {
+               "name": "SPOTV2",
+               "image": "https://www.img.in.th/images/2d51b06fa02dc2ab07df62f5545badf8.png",              
+               "url": "https://www.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8","referer": "https://www.livedoomovie.com",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+     "playInNatPlayer": "true"}, 
+				
+			{
+               "name": "Bein 1",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/epl-bein1.png", 
+				url:"https://www.doofootball.com/dootv/live/bein1#main_dootv",
+				referer:"https://www.doofootball.com/"},
+	
+			{
+               "name": "Bein 1",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/epl-bein1.png",              
+               "url": "https://www.we-play.tv/watching/tv/bein-sports-1","referer": "https://www.we-play.tv/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+			playInNatPlayer: "true"},
+
+            {
+               "name": "Bein 2",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/epl-bein2.png",  
+				url:"https://www.doofootball.com/dootv/live/bein1#main_dootv",
+				referer:"https://www.doofootball.com/"},
+          
+            {
+               "name": "Bein 2",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/epl-bein2.png",              
+               "url": "https://www.we-play.tv/watching/tv/bein-sports-2","referer": "https://www.we-play.tv/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"playInNatPlayer": "true"}, 
+
+            {
+               "name": "Bein 2",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/epl-bein2.png",              
+               "url": "https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8","referer": " ",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"playInNatPlayer": "true"}, 
+
+			{
+               "name": "EURO Sport 1",
+               "image": "https://overseer.blackboxsys.net/images/png/fr-eurosport.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-eurosport&api_key=hmcb4rf66f",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "embed": "true",playInNatPlayer: "true"},
+        
+			{
+               "name": "EURO Sport 2",
+               "image": "https://overseer.blackboxsys.net/images/png/fr-eurosport2.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-eurosport2&api_key=hmcb4rf66f",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "embed": "true",playInNatPlayer: "true"},
+  	
+		{
+               "name": "MUTV (UK)",
+               "image": "https://freetvdd.com/wp-content/uploads/2019/12/mutv.png",      
+				"url": "https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8",
+				"referer": "https://freetvdd.com/",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				playInNatPlayer: "true"},
+ 
+			{
+               "name": "ROH",
+			"image": "https://we-play.live/uploads/posters/fight-sports-poster.jpg",         
+               "url": "https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8","referer": "",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+     "playInNatPlayer": "true"}, 
+
+			{
+               "name": "Astro Super Sport 1",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png", 
+				url:"https://www.doofootball.com/dootv/live/astrosupersport#main_dootv",
+				referer:"https://www.doofootball.com/"},
+ 
+			{
+               "name": "Astro Super Sport 1",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp1hd&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "embed": "true",playInNatPlayer: "true"},
+
+ 			{
+               "name": "Astro Super Sport 2",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",             
+				url:"https://www.doofootball.com/dootv/live/astrosupersport2#main_dootv",
+				referer:"https://www.doofootball.com/"},
+ 
+         
+			{
+               "name": "Astro Super Sport 2",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp2hd&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "embed": "true",playInNatPlayer: "true"},
+ 
+ 			{
+               "name": "Astro Super Sport 3",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp3hd.png",              
+               "url": "https://www.doofootball.com/dootv/live/astrosupersport3#main_dootv",
+				referer:"https://www.doofootball.com/"},
+              
+			{
+               "name": "Astro Super Sport 3",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp3hd.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp3hd&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "embed": "true",playInNatPlayer: "true"},
+ 
+ 			{
+               "name": "Astro Super Sport 4",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",            
+               "url": "https://www.doofootball.com/dootv/live/astrosupersport4#main_dootv",
+				referer:"https://www.doofootball.com/"},
+                  
+			{
+               "name": "Astro Super Sport 4",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp4&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "embed": "true",playInNatPlayer: "true"},
+        
+			{
+               "name": "ESPN 1",
+               "image": "https://overseer.blackboxsys.net/images/png/us-espn1.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=us-espn1&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "embed": "true",playInNatPlayer: "true"},
+        
+			{
+               "name": "ESPN 2",
+               "image": "https://overseer.blackboxsys.net/images/png/us-espn2.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=us-espn2&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "embed": "true",playInNatPlayer: "true"},
+        
+			{
+               "name": "US WWE",
+               "image": "https://overseer.blackboxsys.net/images/png/us-wwe.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "embed": "true",playInNatPlayer: "true"},
+                                        
+			{
+               "name": "MU TV",
+               "image": "https://www.doofree88.com/storage/live/KsrwqWMt17G5NwpmNzb7G1xLQDU6r3MxJcCGsGcL.jpg",             
+               "url": "https://www.doofootball.com/dootv/live/mutv#main_dootv","desktop": "true",
+				referer:"https://www.doofootball.com/"},
+
+			{
+               "name": "LFC TV",
+               "image": "https://www.doofree88.com/storage/live/wyur49ADBz4J8vcuRGAjeSBiPh2u1VGZlIXqqOTo.png",             
+               "url": "https://www.doofootball.com/dootv/live/lfctv#main_dootv","desktop": "true",
+				referer:"https://www.doofootball.com/"},
+
+			{
+               "name": "Sky Sport Action",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-action.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+        
+			{
+               "name": "Sky Sport Arena",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-arena.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+        
+			{
+               "name": "Sky Sport Cricckit",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-cricket.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-cricket&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+        
+			{
+               "name": "Sky Sport Football",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-football.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+        
+			{
+               "name": "Sky Sport Golf",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-golf.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+        
+			{
+               "name": "Sky Sport Mainevent",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-mainevent.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+        
+			{
+               "name": "Sky Sport Mix",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-mix.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+        
+			{
+               "name": "Sky Sport News",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-news.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+        
+			{
+               "name": "Sky Sport EPL",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-epl.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+                           
+			{
+               "name": "BT Sport 1",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-btsport1hd.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+         
+			{
+               "name": "BT Sport 2",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-btsport2hd.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+         
+			{
+               "name": "BT Sport 3",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-btsport3hd.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+         
+			{
+               "name": "BT Sport Extra 1",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-btsportextra1.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra1&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+         
+			{
+               "name": "BT Sport Extra 2",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-btsportextra2.png",             
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra2&api_key=hmcb4rf66f&ref=https://dooball66.com",
+			   "referer": "https://dooball66.com/",   "info": "For ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+	 "desktop": "true"},
+
+{
+               "name": "SPORT TV 1 ",
+               "image": "https://www.img.in.th/images/793db7d8ad1f906a579224ec8b330a9a.png",             
+               "url": "https://v3.sportzonline.to/channels/pt/sporttv1.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
+			   "playInNatPlayer": "true"},
+{
+               "name": "SPORT TV 2 ",
+               "image": "https://www.img.in.th/images/793db7d8ad1f906a579224ec8b330a9a.png",             
+               "url": "https://ball365.co/channel/?id=sporttv2","referer" :"https://ball365.co/",
+			   "playInNatPlayer": "true"},
+{
+               "name": "SPORT TV 3 ",
+               "image": "https://www.img.in.th/images/793db7d8ad1f906a579224ec8b330a9a.png",        
+               "url": "https://ball365.co/channel/?id=sporttv3","referer" :"https://ball365.co/",
+			   "playInNatPlayer": "true"},
+{
+               "name": "SPORT TV 4 ",
+               "image": "https://www.img.in.th/images/793db7d8ad1f906a579224ec8b330a9a.png",              
+               "url": "https://ball365.co/channel/?id=sporttv4","referer" :"https://ball365.co/",
+			   "playInNatPlayer": "true"},
+{
+               "name": "SPORT TV 5 ",
+               "image": "https://www.img.in.th/images/793db7d8ad1f906a579224ec8b330a9a.png",            
+               "url": "https://v3.sportzonline.to/channels/pt/sporttv5.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
+			   "playInNatPlayer": "true"},
+         
+{
+               "name": "HD1",
+               "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
+                "url": "https://v6.sportzonline.to/channels/hd/hd1.php",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36","userAgent": "exoplayer_video"
+},
+{
+               "name": "HD2",
+               "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
+                "url": "https://v6.sportzonline.to/channels/hd/hd2.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36","userAgent": "exoplayer_video"
+},
+{
+               "name": "HD3",
+               "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
+                "url": "https://v6.sportzonline.to/channels/hd/hd3.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36","userAgent": "exoplayer_video"
+},
+{
+               "name": "HD4",
+               "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
+                "url": "https://v6.sportzonline.to/channels/hd/hd4.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36","userAgent": "exoplayer_video"
+},
+{
+               "name": "HD5",
+               "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
+                "url": "https://v6.sportzonline.to/channels/hd/hd5.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36","userAgent": "exoplayer_video"
+},
+{
+               "name": "HD6",
+               "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
+                "url": "https://v6.sportzonline.to/channels/hd/hd6.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36","userAgent": "exoplayer_video"
+},
+{
+               "name": "HD7",
+               "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
+                "url": "https://v6.sportzonline.to/channels/hd/hd7.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36","userAgent": "exoplayer_video"
+},
+			
+{
+               "name": "HD8",
+               "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
+                "url": "https://v6.sportzonline.to/channels/hd/hd8.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36","userAgent": "exoplayer_video"
+},
+
+
+	
             ]
 }
                
