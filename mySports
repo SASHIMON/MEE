@@ -160,7 +160,7 @@
 				"url": "https://embed.dooball66.com/player.php?channel=gd-tsporthd1&api_key=hmcb4rf66f&ref=https://dooball66.com",
 				"referer": "https://dooball66.com/", 
         "info": "True Sport HD1 (3)",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+	"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 				"playInNatPlayer": "true"},
  			
 		{
@@ -368,14 +368,13 @@
                "name": "HD1",
                "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
                 "url": "https://v6.sportzonline.to/channels/hd/hd1.php",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36","userAgent": "exoplayer_video"
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 },
 {
                "name": "HD2",
                "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
                 "url": "https://v6.sportzonline.to/channels/hd/hd2.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-    "userAgent": "exoplayer_video"
 },
 {
                "name": "HD3",
@@ -383,35 +382,30 @@
                 "url": "https://v6.sportzonline.to/channels/hd/hd3.php",
 		"referer" :"https://xge05x3kb7vvgd.streammart.club/",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-    "userAgent": "exoplayer_video"
 },
 {
                "name": "HD4",
                "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
                 "url": "https://v6.sportzonline.to/channels/hd/hd4.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-    "userAgent": "exoplayer_video"
 },
 {
                "name": "HD5",
                "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
                 "url": "https://v6.sportzonline.to/channels/hd/hd5.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-    "userAgent": "exoplayer_video"
 },
 {
                "name": "HD6",
                "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
                 "url": "https://v6.sportzonline.to/channels/hd/hd6.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-    "userAgent": "exoplayer_video"
 },
 {
                "name": "HD7",
                "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
                 "url": "https://v6.sportzonline.to/channels/hd/hd7.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-    "userAgent": "exoplayer_video"
 },
 			
 {
@@ -419,7 +413,6 @@
                "image": "https://www.chula.ac.th/wp-content/uploads/2019/09/shutterstock_1315841174.jpg",             
                 "url": "https://v6.sportzonline.to/channels/hd/hd8.php","referer" :"https://xge05x3kb7vvgd.streammart.club/",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-    "userAgent": "exoplayer_video"
 },
 
 
