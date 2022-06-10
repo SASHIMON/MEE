@@ -1,0 +1,134 @@
+{ 
+"name": "รวม(Link)หนัง", 
+"author": "DOO 📺 By ESC|🐻enG", 
+"url": "https://raw.githubusercontent.com/SASHIMON/MEE/Collections", 
+"info" : "Last Update 10 June 2022",
+"image": "https://1.bp.blogspot.com/-3k-uZDnHBbw/X3tfFHHm-eI/AAAAAAAAAQs/jwkpe0Mp6BAo9hcSJHfyaYOA7mCS44JXwCNcBGAsYHQ/s1516/brown0001.jpg",
+
+	"groups": [
+
+			{
+				"name": "Inter Series", 
+				"image": "https://www.img.in.th/images/bd4bc9e2cd39e8310aa03d797c405676.png",  
+				"url": "https://www.dropbox.com/s/mlrc0fxhs4mnhai/Inter%20Series.m3u?dl=1",
+				"import": false},
+				
+			{
+				"name": "Home Movies", 
+				"image": "https://www.img.in.th/images/194633b7a990a5900c3194fb207d521d.png", 
+				"url": "https://www.dropbox.com/s/et0i0tr5mqcban2/Home%20Movies.m3u?dl=1",
+				"import": false},
+						
+			{
+				"name": "War Movies", 
+				"image": "https://img.discogs.com/PY1LHFVLunlVC1j7DG89ZALkHuc=/fit-in/500x500/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-14161074-1568990164-6492.jpeg.jpg", 
+				"url": "https://www.dropbox.com/s/2bthxft2q5tlavc/War%20Movies.m3u?dl=1",
+				"import": false},
+
+			{
+				"name": "4K Movies", 
+				"image": "https://www.img.in.th/images/bcb659757809091ac38297179198816a.png",  
+				"url": "https://www.dropbox.com/s/7ppdcwc9nx51vmu/4K%20Movies.m3u?dl=1",
+				"import": false},
+
+			{
+				"name": "Action Movies",
+				"image": "https://thumbs.dreamstime.com/z/stamp-label-text-action-movies-movie-projector-filmstrip-written-inside-vector-illustration-121314096.jpg",  
+				"url": "https://www.dropbox.com/s/j1j6odfbx03aoj9/Action%20Movies.m3u?dl=1",
+				"import": false},	
+
+			{
+				"name": "Movies Collection",
+				"image": "https://www.img.in.th/images/458257dd68a749015fbfeb53861001a0.png",  
+				"url": "https://www.dropbox.com/s/72twtxj66rxoqay/Movie%20Collection.m3u?dl=1",
+				"import": false},
+			
+			{
+				"name": "International Series",
+				"image": "https://logos.flamingtext.com/Word-Logos/series-design-china-name.png",  
+				"url": "https://www.dropbox.com/s/18l0ngukmtysdtq/Series.m3u?dl=1",
+				"import": false},
+		
+			{
+				"name": "Movies by Years", 
+				"image": "https://www.img.in.th/images/458257dd68a749015fbfeb53861001a0.png",  
+				"url": "https://www.dropbox.com/s/xjit52vvbrtacah/Movies%20by%20Years.m3u?dl=1",
+				"import": false},
+
+			{
+				"name": "Disney+hotstar", 
+				"image": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/disney_plus_660_050220013057_060220075157.jpg",   
+				"url": "https://www.dropbox.com/s/1mjr3lgwjyfg2yw/Disney.m3u?dl=1",
+			"import": false},
+
+			{
+				"name": "Movies 2 Language", 
+				"image": "https://www.img.in.th/images/458257dd68a749015fbfeb53861001a0.png",   
+				"url": "https://www.dropbox.com/s/p8qchtr76tyhl53/Movies%202%20Languate.m3u?dl=1",
+				"import": false},
+
+			{
+				"name": "Superstar Movies", 
+				"image": "https://www.img.in.th/images/458257dd68a749015fbfeb53861001a0.png",  
+				"url": "https://www.dropbox.com/s/ozyb6j8akzfgblc/Superstar%20Movies.m3u?dl=1",
+				"import": false},
+
+			{
+				"name": "Movies Mix", 
+				"image": "https://www.img.in.th/images/1be555ceca22ec1dd70de33d782a1da1.png",  
+				"url": "https://www.dropbox.com/s/leeicxkh0gj6y94/Movies%20Mix.m3u?dl=1",
+				"import": false},  
+
+			{
+				"name": "New Movies",
+				"image": "https://www.img.in.th/images/458257dd68a749015fbfeb53861001a0.png",  
+				"url": "https://www.dropbox.com/s/q9mba8lhi95qg8h/New%20Movies.m3u?dl=1",
+				"import": false},
+
+			{
+				"name": "Old Movies",
+				"image": "https://www.img.in.th/images/458257dd68a749015fbfeb53861001a0.png",  
+				"url": "https://www.dropbox.com/s/rxuktdnb0hkns1k/Old%20Movies.m3u?dl=1",
+				"import": false},	
+
+			{
+				"name": "Family Movies", 
+				"image": "https://www.img.in.th/images/458257dd68a749015fbfeb53861001a0.png",  
+				"url": "https://www.dropbox.com/s/w7a6ot9w921a6gi/Family%20Movies.m3u?dl=1",
+				"import": false},
+
+			{
+				"name": "Sequel Movies (หนังภาคต่อ)", 
+				"image": "https://apilgriminnarnia.files.wordpress.com/2015/10/back-to-the-future-logo.png",
+				"url": "https://www.dropbox.com/s/18sxfzkdirobt49/Sequel%20Movies.m3u?dl=1",
+				"import": false},
+
+			{
+				"name": "Fantasy Movies", 
+				"image": "https://www.logoarena.com/contestimages/public_new/5914/152_1432049754_f2.png",
+				"url": "https://www.dropbox.com/s/6fylj98x9xo9i7o/Fantacy%20Movies.m3u?dl=1",
+				"import": false},
+
+			{
+				"name": "Animation Movies", 
+				"image": "https://cartoonresearch.com/wp-content/uploads/2013/02/ang-logo.jpg", 
+				"url": "https://www.dropbox.com/s/xz0dtk2kclesuwn/Animation%20Movies.m3u?dl=1",
+				"import": false},			
+
+			{
+				"name": "Horror Movies",
+				"image": "https://theologygaming.com/wp-content/uploads/2014/02/horror-tekstkopie.jpg",  
+				"url": "https://www.dropbox.com/s/b9ywa76mxcd9nyr/Horror%20Movies.m3u?dl=1",
+				"import": false},
+
+			{
+				"name": "Concert",
+				"image": "https://www.img.in.th/images/9ad883f7d5acbaf5b271cf5b5eff12c0.png",  
+				"url": "https://www.dropbox.com/s/yb0bb6ehb4n0qgu/Concert.m3u?dl=1",
+				"info": "For ฟรี อย่านำไปจำหน่าย นะจ๊ะ นะจ๊ะ Only",
+				"import": false},
+
+
+				
+]
+}
