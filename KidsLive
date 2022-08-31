@@ -3,22 +3,13 @@
 "author" : "DOO 📺 By ESC|🐻enG",
 "stations":	
 	[ 
-				{
-				"name":"BOOMERANG",
-				"image":"https://i.imgur.com/Ruc88XO.png",
+
+				{"name": "BOOMERANG",
+				"image": "https://i.imgur.com/Ruc88XO.png",
 				"url":"https://cdn6.goprimetime.info/feed/202105171329/chboomberang/index.m3u8",
-				"embed": "true",playInNatPlayer: "true"},
-
-				{"name": "          us ",
-				"image": "https://www.dropbox.com/s/prn3blp3jirzurm/IMG_20211201_213311.png?dl=1",
-				"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=us-nbcgolf&api_key=hmcb4rf66f",
-				"referer": "https://dooball66.com",
+				"referer": "https://cdn6.goprimetime.info",
 				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
 
-				{"name": "    Malaysia",
-				"image": "https://www.dropbox.com/s/prn3blp3jirzurm/IMG_20211201_213311.png?dl=1",
-				"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-golfeng&api_key=hmcb4rf66f",
-				"referer": "https://dooball66.com",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
- ]
+
+]
  }
